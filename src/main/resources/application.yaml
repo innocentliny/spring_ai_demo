@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /api
+spring:
+  application:
+    name: spring_ai_demo
+  ai:
+    openai:
+      api-key: <openai_api_key>
